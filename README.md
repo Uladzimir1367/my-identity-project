@@ -8,5 +8,5 @@
 
 https://docs.google.com/document/d/1QpBaT-iXZQ27tHo4Kc2hg969nb5dIT2dhz944vDyFRQ/edit?usp=sharing
 
-#### Скриншоты и пояснения к ходу выполнения проекта в файле README1.md
+#### Скриншоты и пояснения к ходу выполнения проекта в файле README1.md - [Открыть README1.md](./README1.md)
 
